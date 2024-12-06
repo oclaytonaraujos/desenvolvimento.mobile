@@ -1,0 +1,49 @@
+name: mamamia_pizzaria
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter_lints: ^2.0.1
+  qr_code_scanner_plus: ^2.0.6
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/pizza1.jpg
+    - lib/assets/pizza2.jpg
+    - lib/assets/pizza3.jpg
+    - lib/assets/pizza4.jpg
+    - lib/assets/pizza5.jpg
+    - lib/assets/pizza6.jpg
+    - lib/assets/pizza7.jpg
+    - lib/assets/dessert1.jpg
+    - lib/assets/dessert2.jpg
+    - lib/assets/dessert3.jpg
+    - lib/assets/dessert4.jpg
+    - lib/assets/dessert5.jpg
+    - lib/assets/dessert6.avif
+    - lib/assets/dessert7.jpg
+    - lib/assets/drink1.jpg
+    - lib/assets/drink2.jpg
+    - lib/assets/drink3.jpg
+    - lib/assets/drink4.jpg
+    - lib/assets/drink5.jpg
+    - lib/assets/drink6.jpg
+    - lib/assets/drink7.jpg
+    - lib/assets/drink8.jpg
+    - lib/assets/drink8.jpg
+    - lib/assets/logo.png

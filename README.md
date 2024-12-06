@@ -1,4 +1,4 @@
-# pizzaria_mobile
+# pizzaria_mamamia
 
 A new Flutter project.
 
